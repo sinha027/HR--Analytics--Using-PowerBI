@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-##  Introduction 
+##  Introduction  
 The HR Analytics Dashboard provides a data-driven approach to analyzing employee attrition, demographics, and job roles. It helps HR professionals identify trends, improve retention strategies, and enhance workforce planning.  
 
 # Datasets :-
