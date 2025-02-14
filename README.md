@@ -64,7 +64,9 @@ The HR Analytics Dashboard provides a data-driven approach to analyzing employee
   # Insight: High first-year attrition suggests a need for improved onboarding and mentorship programs.
 
    
- [HR Analytics Dashboard.png](https://github.com/sinha027/HR--Analytics--Using-PowerBI/blob/main/HR%20Analytics%20Dashboard.png)
+## Dashboard
+   ![HR Analytics Dashboard](https://github.com/sinha027/HR--Analytics--Using-PowerBI/blob/main/HR%20Analytics%20Dashboard.png)
+
 
 
 ##  Recommendations 
