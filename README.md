@@ -59,8 +59,10 @@ The HR Analytics Dashboard provides a data-driven approach to analyzing employee
 - Highest attrition in 1st year: 59 employees  
 - Attrition decreases significantly after 10 years 
 
-  # Insight: High first-year attrition suggests a need for improved onboarding and mentorship programs.  
+  # Insight: High first-year attrition suggests a need for improved onboarding and mentorship programs.
 
+   
+ [HR Analytics Dashboard.png](https://github.com/sinha027/HR--Analytics--Using-PowerBI/blob/main/HR%20Analytics%20Dashboard.png)
 
 
 ##  Recommendations 
